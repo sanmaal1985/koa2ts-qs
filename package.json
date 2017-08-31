@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "koa": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.39",
+    "@types/node": "^8.0.26",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2"
+  }
+}
